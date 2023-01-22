@@ -3,6 +3,9 @@ layout: default
 --
 
 # This is the final puzzle. 
+
+## submitted by amoldybuffalo
+
 Your target is a google doc. 
 The format of links to google docs is:
 https://docs.google.com/document/d/document_id
