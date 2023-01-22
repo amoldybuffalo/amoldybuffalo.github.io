@@ -1,3 +1,7 @@
+--
+layout: default
+--
+
 # This is the final puzzle. 
 Your target is a google doc. 
 The format of links to google docs is:
