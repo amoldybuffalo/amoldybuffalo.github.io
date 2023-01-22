@@ -1,7 +1,3 @@
---
-layout: default
---
-
 # This is the final puzzle. 
 
 ## submitted by amoldybuffalo
