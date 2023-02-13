@@ -10,4 +10,4 @@ Where answer is the answer to the puzzle in that section.
 
 The first clue is almost like nothing. 
 An absence of text spelled out with words.
-If paper has nothing written on it you could say that it's <answer>.
+If paper has nothing written on it you could say that it's `____`.
