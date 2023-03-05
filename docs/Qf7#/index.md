@@ -2,7 +2,7 @@
 
 ## submitted by amoldybuffalo
 
-Your target is a google doc. 
+Your target is a google doc link. 
 The format of links to google docs is:
 https://docs.google.com/document/d/document_id
 Document id's are base64, but you get binary instead. Good luck!
